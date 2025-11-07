@@ -12,13 +12,13 @@
 
 > Isolated and self-contained
 
-RIP: (/eq2=page-controls/eq2-page-controls-signals.component.ts)
-1- Eque2PageControlsComponent - Production ready reusable UI components
-eq2-ui/projects/eq2/ui-core/src/lib/components/ — reusable UI components
+WIP: (/eq2=page-controls/eq2-page-controls-signals.component.ts) <br>
+1- Eque2PageControlsComponent - Production ready reusable UI components<br>
+eq2-ui/projects/eq2/ui-core/src/lib/components/ — reusable UI components<br>
 
-WIP: (/pagination/eq2-page-controls-gallery-signals.component.ts)
-2- Eque2PageControlsGalleryComponent - Real-world scenario Component to demostrate how to use the real Eque2PageControlsComponent
-eq2-ui/src/app/components/ui-gallery/ — these are demo/showcase examples
+WIP: (/pagination/eq2-page-controls-gallery-signals.component.ts)<br>
+2- Eque2PageControlsGalleryComponent - Real-world scenario Component to demostrate how to use the real Eque2PageControlsComponent<br>
+eq2-ui/src/app/components/ui-gallery/ — these are demo/showcase examples<br>
 
 
 ## Benefits:
