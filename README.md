@@ -14,6 +14,7 @@
 
 1- Pagination Gallery Component
 eq2-ui/src/app/components/ui-gallery/pagination/eq2-page-controls-gallery.component.ts
+http://localhost:4200/#/pagination
 
 2- Select Gallery Component
 eq2-ui/src/app/components/ui-gallery/select/eq2-select-gallery.component.ts
@@ -54,6 +55,7 @@ yarn run lib-watch
 yarn run start
 
 http://localhost:4200/
+https://cc-uipreview.azurewebsites.net/#/pagination
 ```
 
 ---
