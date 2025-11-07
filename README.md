@@ -22,17 +22,17 @@ eq2-ui/src/app/components/ui-gallery/ — these are demo/showcase examples<br>
 
 
 ## Benefits:
-.subscription() -> toSignal() = for automatic cleanup
-Use computed() for derived pagination values
-remove manual ngOnDestroy subscription management
-Automatic reactivity: currentPageNum or perPage change
-It demonstrates computed signals for derived state
-Simplify initialisation logic
-Pure signals — no Observable interop (except minimal Promise conversion)
-Automatic reactivity — effect runs when signals change
-Automatic cleanup — effects are cleaned up automatically
-Simpler code — no RxJS operators or Observable chains
-Type-safe — all signals are strongly typed
+- .subscription() -> toSignal() = for automatic cleanup
+- Use computed() for derived pagination values
+- remove manual ngOnDestroy subscription management
+- Automatic reactivity: currentPageNum or perPage change
+- It demonstrates computed signals for derived state
+- Simplify initialisation logic
+- Pure signals — no Observable interop (except minimal Promise conversion)
+- Automatic reactivity — effect runs when signals change
+- Automatic cleanup — effects are cleaned up automatically
+- Simpler code — no RxJS operators or Observable chains
+- Type-safe — all signals are strongly typed
 
 
 ## The migration would demonstrate:
