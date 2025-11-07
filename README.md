@@ -1,4 +1,4 @@
-# Angular Signals (Part II - The Signals Revenge)
+# Angular Signals (Part II - The Signals Revenge) - [WIP]
 
 > Angular Singals Workshops to explore the code benefits of the new reactive path
 
