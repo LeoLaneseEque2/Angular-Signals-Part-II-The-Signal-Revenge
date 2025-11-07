@@ -42,6 +42,7 @@ After: Automatic cleanup, computed signals, cleaner code
 ---
 
 STASH:
+eq2-ui - develop
 stash@{0}: On develop: Signals migration: Pure signal-based pagination component
 
 git stash apply 
