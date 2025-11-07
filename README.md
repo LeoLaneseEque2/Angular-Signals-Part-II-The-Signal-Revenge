@@ -2,6 +2,10 @@
 
 > Angular Singals Workshops to explore the code benefits of the new reactive path
 
+```js
+ Soon in the best cinemas!
+```
+
 ---
 
 ## 
