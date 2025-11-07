@@ -12,7 +12,7 @@
 
 > Isolated and self-contained
 
-1- Pagination Gallery Component
+1- Pagination Gallery Component (it's a gallery component that demonstrates page controls (pagination))
 eq2-ui/src/app/components/ui-gallery/pagination/eq2-page-controls-gallery.component.ts
 http://localhost:4200/#/pagination
 
