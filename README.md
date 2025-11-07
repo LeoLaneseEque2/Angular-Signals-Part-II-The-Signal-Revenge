@@ -12,9 +12,11 @@
 
 > Isolated and self-contained
 
+TODO: (Eque2PageControlsSignalsComponent.ts)
 1- Eque2PageControlsComponent - Production ready reusable UI components
 eq2-ui/projects/eq2/ui-core/src/lib/components/ — reusable UI components
 
+WIP: (Eque2PageControlsGallerySignalsComponent.ts)
 2- Eque2PageControlsGalleryComponent - Real-world scenario Component to demostrate how to use the real Eque2PageControlsComponent
 eq2-ui/src/app/components/ui-gallery/ — these are demo/showcase examples
 
